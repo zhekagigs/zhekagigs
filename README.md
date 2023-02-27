@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhekagigs
+- 👋 Hi, I’m Evgeny Tolmachev
 - 👀 I’m interested in software development and artificial intelligence
 - 🌱 I’m currently learning Java OOP, Design Patterns
 - 💞️ I’m looking to collaborate on a piece of code for near real-time audio separation
