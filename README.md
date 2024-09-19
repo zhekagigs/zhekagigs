@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Evgeny Tolmachev
-- 👀 I’m interested in software development and artificial intelligence
+- 👀 I’m a software engineer, curious about distributed systems and AI agents
 - 📫 How to reach me : evtdev@icloud.com
